@@ -34,5 +34,5 @@ plt.hist([10,5,7,10,1,1,2,3,5])
 
 
 
-![png](/Malahide Park Run Analysis/testnotebook_files/testnotebook_1_1.png)
+![png](Malahide Park Run Analysis/testnotebook_files/testnotebook_1_1.png)
 
